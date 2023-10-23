@@ -1,0 +1,300 @@
+{
+  "reviews":[
+    {
+      "id": 1,
+      "rating": 5,
+      "comment": "Harika bir seyahat rehberi! Tüm önerilere bayıldım."
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "Çok faydalı bir uygulama, sadece bazı yerlerde daha fazla ayrıntıya ihtiyaç var."
+    },
+    {
+      "id": 3,
+      "rating": 3,
+      "comment": "Ortalama bir uygulama. İhtiyaçlarımı karşılıyor, ancak bazı alanlarda geliştirilmeye ihtiyaç var."
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "comment": "Muhteşem! Bu uygulama sayesinde seyahatlerim çok daha kolay ve keyifli hale geldi."
+    },
+    {
+      "id": 5,
+      "rating": 2,
+      "comment": "Beklentilerimi karşılamadı. Daha fazla içerik ve kullanıcı dostu arayüz gerekiyor."
+    },
+    {
+      "id": 6,
+      "rating": 4,
+      "comment": "Güzel bir uygulama, ancak yer yer yavaş çalışabiliyor. Bunun dışında memnunum."
+    },
+    {
+      "id": 7,
+      "rating": 5,
+      "comment": "Kesinlikle harika bir rehber uygulaması! Seyahatlerimi planlamak için vazgeçilmezim oldu."
+    },
+    {
+      "id": 8,
+      "rating": 3,
+      "comment": "Orta halli bir uygulama. Bazı yerlerde daha fazla detaylı açıklama olmalı."
+    },
+    {
+      "id": 9,
+      "rating": 4,
+      "comment": "Genel olarak iyi bir deneyim yaşadım. Seyahat rehberlerinde bulunan ipuçları çok kullanışlı."
+    },
+    {
+      "id": 10,
+      "rating": 5,
+      "comment": "Mükemmel bir uygulama! Her seyahatte yanımda taşıdığım bir rehber haline geldi."
+    }
+  ],
+  
+  "countries": [
+    {
+      "id": 1,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_drone_footage_of_Accra_central%2C_Ghana.jpg",
+      "continental": "Africa",
+      "countryName": "Ghana",
+      "cityName": "Accra",
+      "placeName": "Accra",
+      "description": "Accra is the capital city of Ghana, known for its vibrant culture, historic sites, and bustling markets."
+    },
+    {
+      "id": 2,
+      "photo": "https://images.nationalgeographic.org/image/upload/v1638890329/EducationHub/photos/map-of-antarctica.jpg",
+      "continental": "Antarctica",
+      "countryName": "Antarctica",
+      "cityName": "Antarctica",
+      "placeName": "Antarctica",
+      "description": "Antarctica is a remote continent characterized by its extreme cold, unique wildlife, and stunning icy landscapes."
+    },
+    {
+      "id": 3,
+      "photo": "https://justcome.pt/wp-content/uploads/2019/01/IMG_3078.jpg",
+      "continental": "Europe",
+      "countryName": "Portugal",
+      "cityName": "Arouca",
+      "placeName": "Arouca",
+      "description": "Arouca is a charming town in Portugal, known for its natural beauty and attractions like the Paiva Walkways."
+    },
+    {
+      "id": 4,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c0/98/c5/caption.jpg?w=700&h=-1&s=1&cx=960&cy=638&chk=v1_dd51d42e9a888a6b338f",
+      "continental": "Europe",
+      "countryName": "Greece",
+      "cityName": "Athens",
+      "placeName": "Athens",
+      "description": "Athens is the historic capital of Greece, famous for its ancient landmarks such as the Acropolis and Parthenon."
+    },
+    {
+      "id": 5,
+      "photo": "https://lp-cms-production.imgix.net/2021-06/shutterstockRF_1116550892.jpg?auto=compress&fit=crop&format=auto&q=50&w=1200&h=800",
+      "continental": "Asia",
+      "countryName": "Thailand",
+      "cityName": "Bangkok",
+      "placeName": "Bangkok",
+      "description": "Bangkok is the vibrant capital city of Thailand, known for its bustling street life, ornate temples, and vibrant markets."
+    },
+    {
+      "id": 6,
+      "photo": "https://lp-cms-production.imgix.net/2020-12/GettyRF_472223765.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
+      "continental": "Europe",
+      "countryName": "United Kingdom",
+      "cityName": "Bath",
+      "placeName": "Bath",
+      "description": "Bath is a historic city in the U.K., famous for its Roman-built baths and stunning Georgian architecture."
+    },
+    {
+      "id": 7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MPe04-JhFER28gwpUudRgdqPqVMq7NpJ_vtS0UybGa3SiNi8xJboWV-UQwYtnygP0vc&usqp=CAU",
+      "continental": "Asia",
+      "countryName": "China",
+      "cityName": "Beijing",
+      "placeName": "Beijing",
+      "description": "Beijing is the capital of China, known for its ancient wonders like the Great Wall and modern landmarks like the Bird's Nest stadium."
+    },
+    {
+      "id": 8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYrKi7vPnnB8WEmMCIyyivVOEArUciBhY4fnZYLR5a7fcaczgcVw_Gj2wJhxss3hNF3M&usqp=CAU",
+      "continental": "Central America",
+      "countryName": "Belize",
+      "cityName": "Belize",
+      "placeName": "Belize",
+      "description": "Belize is a tropical paradise with beautiful beaches, lush rainforests, and Mayan ruins."
+    },
+    {
+      "id": 9,
+      "photo": "https://cdn.audleytravel.com/1050/750/79/449235-benguerra-lodge-bazaruto-archipelago.webp",
+      "continental": "Africa",
+      "countryName": "Mozambique",
+      "cityName": "Benguerra Island",
+      "placeName": "Benguerra Island",
+      "description": "Benguerra Island is a stunning destination in Mozambique, offering pristine beaches, coral reefs, and marine wildlife."
+    },
+    {
+      "id": 10,
+      "photo": "https://a.cdn-hotels.com/gdcs/production166/d183/62db101a-e16a-4a29-8135-9bbd9ffaac81.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+      "continental": "Europe",
+      "countryName": "Germany",
+      "cityName": "Berlin",
+      "placeName": "Berlin",
+      "description": "Berlin is the capital of Germany, renowned for its rich history, vibrant arts scene, and iconic landmarks like the Brandenburg Gate."
+    },
+    {
+      "id": 11,
+      "photo": "https://uploads.montage.com/uploads/sites/11/2023/03/14153801/Montage-Big-Sky-Summer-Exterior.jpg",
+      "continental": "North America",
+      "countryName": "USA",
+      "cityName": "Big Sky",
+      "placeName": "Big Sky, Montana",
+      "description": "Big Sky, Montana, is a popular destination for outdoor enthusiasts, offering skiing, hiking, and stunning mountain views."
+    },
+    {
+      "id": 12,
+      "photo": "https://images.etstur.com/files/images/hotelImages/TR/52480/m/Voyage-Torba-Genel-364525.jpg",
+      "continental": "Europe",
+      "countryName": "Turkey",
+      "cityName": "Bodrum",
+      "placeName": "Bodrum",
+      "description": "Bodrum is a coastal town in Turkey, known for its beautiful beaches, historic sites, and vibrant nightlife."
+    },
+    {
+      "id": 13,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Parte_antigua_de_C%C3%A1ceres%2C_Extremadura%2C_Espa%C3%B1a.jpg",
+      "continental": "Europe",
+      "countryName": "Spain",
+      "cityName": "Cáceres",
+      "placeName": "Cáceres",
+      "description": "Cáceres is a picturesque city in Spain, famous for its well-preserved medieval architecture and charming old town."
+    },
+    {
+      "id": 14,
+      "photo": "https://res.klook.com/image/upload/fl_lossy.progressive,w_800,c_fill,q_85/Mobile/City/flcppqgs0msbxxmqamju.jpg",
+      "continental": "Africa",
+      "countryName": "Egypt",
+      "cityName": "Cairo",
+      "placeName": "Cairo",
+      "description": "Cairo is the capital of Egypt and home to iconic landmarks like the Pyramids of Giza and the Sphinx."
+    },
+    {
+      "id": 15,
+      "photo": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/158186782.jpg?k=38ee1f074ba26acc7ed3702ceeb1a0a7531ff0e54c44b80d3e3d651e89b1cf0f&o=",
+      "continental": "Europe",
+      "countryName": "France",
+      "cityName": "Cannes",
+      "placeName": "Cannes",
+      "description": "Cannes is a glamorous city on the French Riviera, famous for its film festival and luxurious lifestyle."
+    },
+    {
+      "id": 16,
+      "photo": "https://images.squarespace-cdn.com/content/v1/5882f245db29d6b295c2b5a8/1519372051279-W6XZTS6XJHIX5UXID2H0/bundi-river-valley-chimanimani-national-park-zimbabwe.jpg",
+      "continental": "Africa",
+      "countryName": "Mozambique",
+      "cityName": "Chimanimani National Park",
+      "placeName": "Chimanimani National Park",
+      "description": "Chimanimani National Park is a scenic park in Mozambique, offering hiking trails, waterfalls, and diverse flora and fauna."
+    },
+    {
+      "id": 17,
+      "photo": "https://images.ctfassets.net/bth3mlrehms2/3Iquh7an0sBOkJLzCDv5iX/03e5eda0131ce61bc6a1010caf5b25c4/Neuseeland__Christchurch.jpg?w=3504&h=1971&fl=progressive&q=50&fm=jpg",
+      "continental": "Oceania",
+      "countryName": "New Zealand",
+      "cityName": "Christchurch",
+      "placeName": "Christchurch",
+      "description": "Christchurch is a vibrant city in New Zealand, known for its innovative urban planning, parks, and cultural scene."
+    },
+    {
+      "id": 18,
+      "photo": "https://www.coimbraportugaltourism.com/images/coimbra-portugal.jpg",
+      "continental": "Europe",
+      "countryName": "Portugal",
+      "cityName": "Coimbra",
+      "placeName": "Coimbra",
+      "description": "Coimbra is a historic city in Portugal, famous for its university and stunning medieval architecture."
+    },
+    {
+      "id": 19,
+      "photo": "https://uprootedtraveler.com/wp-content/uploads/waterfalls-in-costa-rica-waterfalls-rio-celeste-waterfall-in-costa-rica-1.jpeg",
+      "continental": "Central America",
+      "countryName": "Costa Rica",
+      "cityName": "Costa Rica",
+      "placeName": "Costa Rica",
+      "description": "Costa Rica is a paradise for nature lovers, offering diverse ecosystems, rainforests, volcanoes, and abundant wildlife."
+    },
+    {
+      "id": 20,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZEaX1mo4X1Y_MkJj1XK-Wr77LkHY3AYRhWWZ1itMbijEh9DmX6Qf4BQqhEoNyRxuvSc&usqp=CAU",
+      "continental": "North America",
+      "countryName": "USA",
+      "cityName": "Denver",
+      "placeName": "Denver",
+      "description": "Denver is a vibrant city in the USA, known for its outdoor recreational opportunities, craft beer scene, and cultural attractions."
+    },
+    {
+      "id": 21,
+      "photo": "https://assets.nst.com.my/images/articles/Aerial_Photo_of_Desaru_Coast_1604893334.jpg",
+      "continental": "Asia",
+      "countryName": "Malaysia",
+      "cityName": "Deasru Coast",
+      "placeName": "Deasru Coast",
+      "description": "Deasru Coast is a stunning coastal region in Malaysia, offering beautiful beaches, clear waters, and marine life."
+    },
+    {
+      "id": 22,
+      "photo": "https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?auto=compress&fit=crop&format=auto&q=50&w=1200&h=800",
+      "continental": "Middle East",
+      "countryName": "United Arab Emirates",
+      "cityName": "Dubai",
+      "placeName": "Dubai",
+      "description": "Dubai is a futuristic city known for its skyscrapers, luxury shopping, and extravagant attractions like the Burj Khalifa."
+    },
+    {
+      "id": 23,
+      "photo": "https://a.cdn-hotels.com/gdcs/production73/d1723/35b8f7e3-14c4-4d53-ae2f-5f7f6adb6aac.jpg",
+      "continental": "Europe",
+      "countryName": "United Kingdom",
+      "cityName": "Edinburgh",
+      "placeName": "Edinburgh",
+      "description": "Edinburgh is the capital of Scotland, celebrated for its historic and cultural heritage, including the Edinburgh Castle."
+    },
+    {
+      "id": 24,
+      "photo": "https://hekla.com/blog/wp-content/uploads/2019/10/things-to-do-in-faroe-islands.jpg",
+      "continental": "Europe",
+      "countryName": "Denmark",
+      "cityName": "Faroe Islands",
+      "placeName": "Faroe Islands",
+      "description": "The Faroe Islands are an archipelago known for their stunning landscapes, dramatic cliffs, and unique Nordic culture."
+    },
+    {
+      "id": 25,
+      "photo": "https://i.guim.co.uk/img/media/fc7fd6ca8228d666efb528b5117a76bdf53ccdd6/739_968_4927_2957/master/4927.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=51cdb423d5153bd2e64bbf13e78b97b8",
+      "continental": "Oceania",
+      "countryName": "Australia",
+      "cityName": "Gold Coast",
+      "placeName": "Gold Coast",
+      "description": "The Gold Coast is a famous Australian destination, offering beautiful beaches, theme parks, and vibrant nightlife."
+    },
+    {
+      "id": 26,
+      "photo": "https://media.cnn.com/api/v1/images/stellar/prod/191030122904-16-gothenburg-sweden-travel.jpg?q=w_2530,h_1687,x_235,y_0,c_crop",
+      "continental": "Europe",
+      "countryName": "Sweden",
+      "cityName": "Gothenburg",
+      "placeName": "Gothenburg",
+      "description": "Gothenburg is a charming city in Sweden, known for its picturesque canals, lively arts scene, and historic architecture."
+    },
+    {
+      "id": 27,
+      "photo": "https://images.ctfassets.net/xsmgpzj6d8er/5TyiTSFZiYTicI5pOIMlfy/c8678295b9d306a6ffc23886fa4b7a67/DD_March_17.3.22_HR-20.jpg?w=2000&fm=jpg&q=80",
+      "continental": "Europe",
+      "countryName": "United Kingdom",
+      "cityName": "London",
+      "placeName": "Designs District, London",
+      "description": "London's Design District is a creative hub known for its art, design studios, galleries, and vibrant cultural atmosphere."
+    }
+  ]
+}
