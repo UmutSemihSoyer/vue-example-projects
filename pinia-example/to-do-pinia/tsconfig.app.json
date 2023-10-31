@@ -4,7 +4,8 @@
     "env.d.ts",
     "src/**/*",
     "src/**/*.vue",
-    "src/stores/**/*"
+    "src/**/*.ts",
+    "src/modules/task.ts"  
   ],
   "exclude": ["src/**/__tests__/*"],
   "compilerOptions": {
@@ -15,6 +16,3 @@
     }
   }
 }
-
-//"src/**/__tests__/*"
-//"env.d.ts", "src/**/*", "src/**/*.vue", "src/**/*.ts"
