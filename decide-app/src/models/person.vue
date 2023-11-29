@@ -1,8 +1,9 @@
 <script lang="ts" setup>
 export interface Person {
-  personId: number;
+  personId: number,
   personFullName: string,
-  teams: [];
+  teams: [],
+  personsPower: number,
 }
 
 </script>
