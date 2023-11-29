@@ -1,8 +1,10 @@
 {
   "teams":{
-    "teamId": "TeamId",
-    "teamName": "TeamName",
-    "teamMembers": "[]"
+    "team":{
+      "teamId": "TeamId",
+      "teamName": "TeamName",
+      "teamMembers": "[]"
+    }
   },
   "persons":{
     "person":{
