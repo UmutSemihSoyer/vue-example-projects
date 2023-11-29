@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 let popUpSituation = ref(false)
-function openPopUp(){
+function openPopUp() {
   popUpSituation.value = !popUpSituation.value
 }
 
@@ -9,22 +9,23 @@ function openPopUp(){
 
 
 <template>
-
-  <div class="container card flex w-40 justify-center p-8">
+  <div class="container card flex w-40 justify-center pl-6 pt-4">
     <div class="text-2xl font-bold">
       <Button class="mb-2 pr-4 team" @click="openPopUp()">TEAM</Button>
-      <Button class="mb-2 decision">DECISION</Button>
+      <Button class="mb-2 decision">DECISIONS</Button>
     </div>
   </div>
   <RouterView v-if="popUpSituation"></RouterView>
 </template>
 
 <style scoped>
-  .team, .decision{
-    color: black;
-    background-color: white;
-    border-color: white;
-  };
+.team,
+.decision {
+  color: black;
+  background-color: white;
+  border-color: white;
+}
 
+;
 </style>
   
