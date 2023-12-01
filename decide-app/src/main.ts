@@ -3,6 +3,7 @@ import { createPinia } from 'pinia';
 import './index.css';
 import App from "./App.vue";
 import router from "./router"
+import { appAxios } from './utils/appAxios';
 
 
 import PrimeVue from 'primevue/config';
@@ -17,6 +18,8 @@ const app = createApp(App);
 app.use(PrimeVue);
 app.use(router);
 app.use(createPinia());
+app.config.globalProperties.$appAxios = appAxios;
+
 
 app.component("Button", Button);
 app.component("Sidebar", Sidebar);
@@ -24,3 +27,7 @@ app.component("ConfirmDialog", ConfirmDialog);
 
 
 app.mount('#app');
+
+
+
+
