@@ -22,7 +22,7 @@ const addNewDecision = () => {
   <button class="w-100 flex flex-row  h-30 p-2 ml-8  " @click="togglePopup">ADD DECISION</button>
   <div class=" add-decision-popup" v-if="openPopUp">
     <div class="mt-2 ml-10 popup-content flex flex-col ">
-      <h2>Add New Decision</h2>
+      <Button>Add New Decision</Button>
 
       <form @submit.prevent="addNewDecision">
         <div class="group">
