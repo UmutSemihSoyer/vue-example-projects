@@ -3,7 +3,7 @@ export interface Person {
   personId: number,
   personFullName: string,
   teams: [],
-  personsPower: number,
+  personVotePower: number,
 }
 
 </script>
