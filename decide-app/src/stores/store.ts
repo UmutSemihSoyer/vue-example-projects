@@ -34,11 +34,12 @@ export const decisions = defineStore('decisions',{
   state: () => ({
     polls:  {
       poll:{
-        pollID: 0,
+        pollID: new Date(),
         pollTitle: '',
         pollDecsription: '',
         pollCreator: '',
-        pollDate: new Date() 
+        pollDate: new Date() ,
+        pollOptions: []
       }
     }
   })
